@@ -1,0 +1,36 @@
+{
+  "name": "fraction-ai-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Fraction AI Testnet Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node start.js",
+    "setup": "node setup.js",
+    "dev": "node index.js",
+    "test": "node test.js",
+    "build": "rm -rf app && javascript-obfuscator --config build-config.json"
+  },
+  "keywords": [
+    "fraction-ai",
+    "fraction-ai-bot",
+    "fractal-bot",
+    "fract-ai",
+    "widiskel"
+  ],
+  "author": "Widiskel",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Widiskel/fraction-ai-bot.git"
+  },
+  "dependencies": {
+    "bip39": "^3.1.0",
+    "ethers": "^6.13.2",
+    "https-proxy-agent": "^7.0.5",
+    "moment-timezone": "^0.5.45",
+    "node-fetch": "^3.3.2",
+    "twisters": "^1.1.0",
+    "winston": "^3.13.0"
+  }
+}
