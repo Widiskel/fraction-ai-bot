@@ -48,6 +48,10 @@ const copyOperations = [
     src: path.join("config", "config_tmp.js"),
     dest: path.join("config", "config.js"),
   },
+  {
+    src: path.join("config", "proxy_list_tmp.js"),
+    dest: path.join("config", "proxy_list.js"),
+  },
 ];
 
 (async () => {
@@ -57,5 +61,7 @@ const copyOperations = [
     await copyFile(src, dest);
   }
   console.log(`\nSetup Complete`);
-  console.log(`Open and configure\n- accounts/accounts.js\n `);
+  console.log(
+    `Open and configure\n- accounts/accounts.js\n- config/config.js.js\n- config/proxy_list.js\n `
+  );
 })();
