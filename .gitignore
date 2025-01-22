@@ -2,6 +2,8 @@ node_modules
 log/*
 test.js
 sessions/*
+config.js
+proxy_list.js
 accounts/accounts.js
 src/reference/*
 package-lock.json
