@@ -29,15 +29,15 @@ Network : ETH Sepolia
 
 Link:
 https://dapp.fractionai.xyz?referral=978CE8BF
-➖ Connect Wallet  (New / BURNER)
-➖ Go to "Dashboard"
-➖ Go to "My Agent" Tab
-➖ Click "+ Create New Agent
-➖ Fill Starting Balance 
-➖ Fill the System Prompt (You can Generate With AI)
-➖ Go to "My Agents"
-➖ Click "Enable Automation"
-✅ Done!
+- Connect Wallet  (New / BURNER)
+- Go to "Dashboard"
+- Go to "My Agent" Tab
+- Click "+ Create New Agent
+- Fill Starting Balance 
+- Fill the System Prompt (You can Generate With AI)
+- Go to "My Agents"
+- Click "Enable Automation"
+- Done!
 
 Buy $ETH on Sepolia if need so much ETH Sepolia:
 https://testnetbridge.com/sepolia
