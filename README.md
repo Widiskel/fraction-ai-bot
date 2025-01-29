@@ -127,6 +127,11 @@ To update bot follow this step :
 ## NOTE
 DWYOR & Always use a new wallet when running the bot, I am not responsible for any loss of assets.
 
+You need to use proxy with rotating feature (Residential) so the IP will change every specific minutes, otherwise you will got 429 - To Many Request Error
+- [proxyscrappe](https://proxyscrape.com/?ref=yzi1n2y)
+- [dataimpulse](https://dataimpulse.com/?aff=66393)
+
+
 
 ## CONTRIBUTE
 
