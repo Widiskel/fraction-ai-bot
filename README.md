@@ -28,9 +28,11 @@ Reward : Potential
 Network : ETH Sepolia
 
 Link:
-https://dapp.fractionai.xyz?referral=978CE8BF
+https://dapp.fractionai.xyz?referral=FE0C5B58
 - Connect Wallet  (New / BURNER)
 - Go to "Dashboard"
+- Link Social
+- Hold 0.005 ETH MAINNET
 - Go to "My Agent" Tab
 - Click "+ Create New Agent
 - Fill Starting Balance 
@@ -142,6 +144,6 @@ Feel free to fork and contribute adding more feature thanks. To get original une
 want to support me for creating another bot ?
 **star** my repo or buy me a coffee on
 
-EVM : `0x1f0ea6e0b3590e1ab6c12ea0a24d3d0d9bf7707d`
+EVM : `0x94c442d21ba584c0562ab5cacc8efd633ec89470`
 
 SOLANA : `3tE3Hs7P2wuRyVxyMD7JSf8JTAmEekdNsQWqAnayE1CN`
