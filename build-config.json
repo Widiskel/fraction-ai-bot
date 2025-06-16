@@ -1,0 +1,24 @@
+{
+  "input": ".",
+  "output": "app",
+  "exclude": [
+    "node_modules",
+    "test.js",
+    "accounts",
+    "config",
+    "setup.js",
+    "start.js",
+    "token_deployer.js"
+  ],
+  "compact": true,
+  "deadCodeInjection": true,
+  "deadCodeInjectionThreshold": 0.3,
+  "selfDefending": true,
+  "controlFlowFlattening": true,
+  "controlFlowFlatteningThreshold": 0.3,
+  "stringArray": true,
+  "rotateStringArray": true,
+  "stringArrayThreshold": 0.3,
+  "stringArrayEncoding": ["rc4"],
+  "disableConsoleOutput": false
+}
